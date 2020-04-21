@@ -1,0 +1,19 @@
+$blue: #142F4F;
+$sky: #5AA5DC;
+$grey: #6D6F73;
+$lightgreen: #3eca54;
+$green: #006400;
+$violet: #693790;
+$red: #9f1c1c;
+$yeelow: #ffd248;
+$lightgrey: #6f7379;
+$orange: #ED6B33;
+
+
+@mixin regular {
+    font-family: 'Roboto', sans-serif;
+}
+
+@mixin bold {
+    font-family: 'RobotoBold', sans-serif;
+}
